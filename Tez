@@ -1,0 +1,6 @@
+apt update
+apt
+gut clone https://github.com/Ignitetch/A dvPhishing.git
+cd AdvPhishing
+ch mod 777 *
+./Android-Setup.sh
